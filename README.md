@@ -1,2 +1,2 @@
-# used car analysis
-A respository used to hold my used car analysis project.
+# portfolio-share
+A respository used to hold my data anlysis sample projects.
