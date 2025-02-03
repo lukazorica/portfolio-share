@@ -1,2 +1,2 @@
 # portfolio-share
-A respository used to hold my data anlysis sample projects.
+A respository used to hold my data analysis sample projects.
